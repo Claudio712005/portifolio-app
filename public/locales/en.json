@@ -1,0 +1,32 @@
+{
+    "languages": {
+        "en": "English",
+        "pt": "Portuguese"
+    },
+    "breadcrumb": {
+        "home": "Home",
+        "about": "About"
+    },
+    "meta": {
+        "home": {
+            "description": "Welcome to the homepage",
+            "keyword1": "home",
+            "keyword2": "main"
+        },
+        "about": {
+            "description": "About me",
+            "keyword1": "about",
+            "keyword2": "me"
+        }
+    },
+    "home": {
+        "intro": "Hi, my name is Cláudio",
+        "profession": "I'm a Full Stack Developer",
+        "description": "I'm a Full Stack Developer with a passion for building beautiful and functional applications. I have experience with a wide range of technologies, including JavaScript, TypeScript, React, Node.js, and MongoDB. I'm always looking to learn new things and improve my skills, and I'm excited to take on new challenges and work on interesting projects.",
+        "button-my-cv": "Dowload My CV",
+        "info1Title": "Frontend Development",
+        "info1Content": "I have experience building responsive and user-friendly web applications using modern frontend technologies such as React, TypeScript, and CSS.",
+        "info2Title": "Backend Development",
+        "info2Content": "I have experience building RESTful APIs and server-side applications using Node.js, Express, and MongoDB."
+    }
+}
